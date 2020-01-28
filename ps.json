@@ -1,22 +1,22 @@
 {"success":true,"message":"","radios":
 [
 
-{"id":"1","number":"1","name":"Ajyal Radio","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/ajyal.jpg","streamUrl":"http://46.43.64.50:8008/AJYAL","yourmuzeId":null,"state":"1"},    
-{"id":"2","number":"2","name":"Radio Nagham","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/angham.jpg","streamUrl":"http://213.6.76.82:8000/nagham.mp3","yourmuzeId":null,"state":"1"},
-{"id":"3","number":"3","name":"Falastini Radio","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/palstini.jpg","streamUrl":"http://philae.shoutca.st:8289/stream","yourmuzeId":null,"state":"1"},
-{"id":"4","number":"4","name":"GAZA FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/gaza.jpg","streamUrl":"http://173.212.226.153:8000/?type=http","yourmuzeId":null,"state":"1"},
-{"id":"5","number":"5","name":"Radio Bethlehem 2000","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/baytlahm.jpg","streamUrl":"http://217.66.226.47:8046/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"6","number":"6","name":"Radio Alaqsa Voice","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/aqsa.jpg","streamUrl":"http://stream.alaqsavoice.ps:8004/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"7","number":"7","name":"7ria FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/horiya.jpg","streamUrl":"http://217.66.226.47:8000/listen.pls","yourmuzeId":null,"state":"1"},
-{"id":"8","number":"8","name":"Hayat FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/hayat.jpg","streamUrl":"http://stream.purecore.net:8000/listen.pls","yourmuzeId":null,"state":"1"},
-{"id":"9","number":"9","name":"راديو كادقلي بث تجريبي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/kadugly.png","streamUrl":"http://176.31.107.8:8928","yourmuzeId":null,"state":"1"},
-{"id":"10","number":"10","name":"اذاعة جامعة السودان العالمية","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/siu2.jpeg","streamUrl":"http://176.31.107.8:8932","yourmuzeId":null,"state":"1"},
-{"id":"11","number":"11","name":"راديو ديشاك","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/deeshakradio.png","streamUrl":"http://198.105.216.204:8230","yourmuzeId":null,"state":"1"},
-{"id":"12","number":"12","name":"راديو الرابعة","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/Rabaa.jpeg","streamUrl":"http://streams.radio.co/s909325731/listen","yourmuzeId":null,"state":"1"},
-{"id":"13","number":"13","name":"راديو هلا","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/hala96.jpg","streamUrl":"http://108.61.34.50:7026/stream","yourmuzeId":null,"state":"1"},
-{"id":"14","number":"14","name":"اذاعة كوستي","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/Kausty.jpg","streamUrl":"http://178.32.62.163:9630/stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"15","number":"15","name":"راديو بلادي FM 96.6","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/belady2.jpg","streamUrl":"http://stream.zenolive.com/uqh3g0dqhpeuv","yourmuzeId":null,"state":"1"},
-{"id":"16","number":"16","name":"راديو البنات","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/banat.jpg","streamUrl":"http://streams.shoutcastsolutions.com:8293","yourmuzeId":null,"state":"1"}
+{"id":"1","number":"1","name":"Ajyal Radio","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/ajyal.jpg","streamUrl":"http://46.43.64.50:8008/AJYAL","yourmuzeId":null,"state":"1"},    
+{"id":"2","number":"2","name":"Radio Nagham","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/angham.jpg","streamUrl":"http://213.6.76.82:8000/nagham.mp3","yourmuzeId":null,"state":"1"},
+{"id":"3","number":"3","name":"Falastini Radio","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/palstini.jpg","streamUrl":"http://philae.shoutca.st:8289/stream","yourmuzeId":null,"state":"1"},
+{"id":"4","number":"4","name":"GAZA FM","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/gaza.jpg","streamUrl":"http://173.212.226.153:8000/?type=http","yourmuzeId":null,"state":"1"},
+{"id":"5","number":"5","name":"Radio Bethlehem 2000","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/baytlahm.jpg","streamUrl":"http://217.66.226.47:8046/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"6","number":"6","name":"Radio Alaqsa Voice","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/aqsa.jpg","streamUrl":"http://stream.alaqsavoice.ps:8004/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"7","number":"7","name":"7ria FM","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/horiya.jpg","streamUrl":"http://217.66.226.47:8000/listen.pls","yourmuzeId":null,"state":"1"},
+{"id":"8","number":"8","name":"Hayat FM","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/hayat.jpg","streamUrl":"http://178.32.62.172:9553","yourmuzeId":null,"state":"1"},
+{"id":"9","number":"9","name":"Angham Radio","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/angham.jpg","streamUrl":"http://46.43.64.50:8010/ANGHAM","yourmuzeId":null,"state":"1"},
+{"id":"10","number":"10","name":"Radio Orient Bethlehem","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/orient.jpg","streamUrl":"http://streamer.mada.ps:8034/orient","yourmuzeId":null,"state":"1"},
+{"id":"11","number":"11","name":"Quran Radio","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/QuranRadio.jpg","streamUrl":"http://www.quran-radio.org:8080/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"12","number":"12","name":"Annaja7 Radio","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/najah.jpg","streamUrl":"http://rs.hadara.ps:8550/stream/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"13","number":"13","name":"Nisaa FM","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/nisaa.jpg","streamUrl":"http://5.34.160.144:8000/stream","yourmuzeId":null,"state":"1"},
+{"id":"14","number":"14","name":"Al Quds Radio","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/sawtqods.jpg","streamUrl":"http://live.atyaf.co:8000/listen.pls","yourmuzeId":null,"state":"1"},
+{"id":"15","number":"15","name":"Raya FM","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/raya.jpg","streamUrl":"http://217.66.226.47:8064/;","yourmuzeId":null,"state":"1"},
+{"id":"16","number":"16","name":"Radio Mawwal","description":"","logo":"https://raw.githubusercontent.com/devradio/ps/master/mawwal.jpg","streamUrl":"http://rs.hadara.ps:8008/listen.pls","yourmuzeId":null,"state":"1"}
 
 ],
 "country":{"id":"60","name":"syria","logo":"..\/..\/_upload\/_flags\/syria.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
