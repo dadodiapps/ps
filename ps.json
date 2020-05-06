@@ -1,9 +1,9 @@
 {"success":true,"message":"","radios":
 [
 
-{"id":"1","number":"1","name":"Ajyal Radio","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/ajyal.jpg","streamUrl":"http://46.43.64.50:8008/AJYAL","yourmuzeId":null,"state":"1"},    
-{"id":"2","number":"2","name":"Radio Nagham","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/angham.jpg","streamUrl":"http://213.6.76.82:8000/nagham.mp3","yourmuzeId":null,"state":"1"},
-{"id":"3","number":"3","name":"Falastini Radio","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/palstini.jpg","streamUrl":"http://philae.shoutca.st:8289/stream","yourmuzeId":null,"state":"1"},
+{"id":"1","number":"1","name":"Ajyal Radio","description":"","logo":"/ajyal.jpg","streamUrl":"http://46.43.64.50:8008/AJYAL","yourmuzeId":null,"state":"1"},    
+{"id":"2","number":"2","name":"Radio Nagham","description":"","logo":"/angham.jpg","streamUrl":"http://213.6.76.82:8000/nagham.mp3","yourmuzeId":null,"state":"1"},
+{"id":"3","number":"3","name":"Falastini Radio","description":"","logo":"/palstini.jpg","streamUrl":"http://philae.shoutca.st:8289/stream","yourmuzeId":null,"state":"1"},
 {"id":"4","number":"4","name":"GAZA FM","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/gaza.jpg","streamUrl":"http://173.212.226.153:8000/?type=http","yourmuzeId":null,"state":"1"},
 {"id":"5","number":"5","name":"Radio Bethlehem 2000","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/baytlahm.jpg","streamUrl":"http://217.66.226.47:8046/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"6","number":"6","name":"Radio Alaqsa Voice","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/ps/master/aqsa.jpg","streamUrl":"http://stream.alaqsavoice.ps:8004/;stream.mp3","yourmuzeId":null,"state":"1"},
