@@ -35,7 +35,7 @@
  
 {"number":"458","name":"sky news arabia (سكاي نيوز عربية)","description":"","logo":"/unnamed.jpg","streamUrl":"https://radio.skynewsarabia.com/stream/radio/skynewsarabia","yourmuzeId":"0","state":"1"},   
 {"number":"459","name":"FM العربية","description":"","logo":"/FM العربية.jpg","streamUrl":"https://fm.alarabiya.net/fm/myStream/playlist.m3u8","yourmuzeId":"0","state":"1"},   
-{"number":"460","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"/Radio Al Jazeera Arabic.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"}, 
+{"number":"460","name":"Radio Al Jazeera Arabic (إذاعة الجزيرة العربية)","description":"","logo":"/Al-jazeera.jpg","streamUrl":"https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8","yourmuzeId":"0","state":"1"}, 
    
     
  
@@ -43,8 +43,6 @@
 {"number":"461","name":"إذاعة القارئ أحمد العجمي","description":"","logo":"/al ajmi.jpg","streamUrl":"http://live.mp3quran.net:9990/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
 {"number":"462","name":"إذاعة القارئ / عبدالرحمن السديس","description":"","logo":"/al sudais.jpg","streamUrl":"http://live.mp3quran.net:9988/;stream.nsv&type=mp3&volume=50&autostart=true","yourmuzeId":"0","state":"1"}, 
 {"number":"463","name":"إذاعة الشيخ سعود الشريم","description":"","logo":"/sa3od cherim.jpg","streamUrl":"http://quraan.us:9848/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"464","name":" إذاعة الرقية الشرعية 1","description":"","logo":"/ro9ia.jpg","streamUrl":"http://quraan.us:9798/;*.mp3","yourmuzeId":"0","state":"1"}, 
-{"number":"465","name":"إذاعة القارئ فارس عباد","description":"","logo":"/fares 3obad.jpg","streamUrl":"http://live.mp3quran.net:9972/;stream.nsv&type=mp3&autostart=true","yourmuzeId":"0","state":"1"},  
 {"number":"466","name":"إذاعة الشيخ وديع اليمني","description":"","logo":"/cheikh wadi3 yamani.jpg","streamUrl":"http://server2.quraan.us:9784/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"467","name":"إذاعة الشيخ خالد الجليل","description":"","logo":"/cheikh al jalil.jpg","streamUrl":"http://server2.quraan.us:9794/;*.mp3","yourmuzeId":"0","state":"1"}, 
 {"number":"468","name":"إذاعة الشيخ عبد الرحمن العوسي","description":"","logo":"/cheikh al 3osi.jpg","streamUrl":"http://quraan.us:9778/;*.mp3","yourmuzeId":"0","state":"1"}, 
