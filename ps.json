@@ -36,8 +36,14 @@
 {"id":"33","number":"33","name":"راديو راما الله للقرآن الكريم","description":"","logo":"/quranaramallah.jpg","streamUrl":"http://streamer.mada.ps:8029/quranfm","yourmuzeId":null,"state":"1"},
 {"id":"34","number":"34","name":"راديو الحرية 92.7 FM - الخليل","description":"","logo":"/alhoria al khalil.jpg","streamUrl":"http://rs.hadara.ps:8000/;stream.mp33&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"},
 {"id":"35","number":"35","name":"radio shabab","description":"","logo":"/radio shabab.jpg","streamUrl":"http://radioshahab.stream.laut.fm/radioshahab?t302=2020-05-07_08-30-55&uuid=6da7094b-8cbd-4c42-bcf9-5b01a6502ab2","yourmuzeId":null,"state":"1"}, 
- 
+{"id":"36","number":"36","name":"Farah Radio(راديو فرح)","description":"","logo":"/Farah Radio.jpg","streamUrl":"http://fara7.callu.ps:8000/live","yourmuzeId":null,"state":"1"},
+{"id":"37","number":"37","name":"marah Radio(راديو مرح)","description":"","logo":"/marah Radio.jpg","streamUrl":"http://rs.hadara.ps:8056/;stream.mp3?_=1","yourmuzeId":null,"state":"1"},
+{"id":"38","number":"38","name":"Nawras Radio(نورس راديو)","description":"","logo":"/Nawras Radio.jpg","streamUrl":"http://rs.hadara.ps:8024/;","yourmuzeId":null,"state":"1"},
+{"id":"39","number":"39","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.png","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
 
+ 
+ 
+ 
  
 {"number":"455","name":"bbc arabic news (إذاعة بي بي سي العربية)","description":"","logo":"/bbcarabic.png","streamUrl":"http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba","yourmuzeId":"0","state":"1"},    
 {"number":"456","name":"AL JAZEERA ENGLISH (قناة الجزيرة)","description":"","logo":"/AL JAZEERA EN.jpg","streamUrl":"http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8","yourmuzeId":"0","state":"1"},   
