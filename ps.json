@@ -45,8 +45,13 @@
 {"id":"42","number":"42","name":"Radio Hayat FM nablus(راديو حياة إف إم)","description":"","logo":"/Radio Hayat FM nablus.png","streamUrl":"http://213.239.218.99:7172/live","yourmuzeId":null,"state":"1"},
 {"id":"43","number":"43","name":"Mazaj FM(راديو مزاج)","description":"","logo":"/Mazaj FM.png","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM","yourmuzeId":null,"state":"1"},
 {"id":"44","number":"44","name":"Radio Zytona FM(راديو زيتونة)","description":"","logo":"/Radio Zytona.jpeg","streamUrl":"http://streamer.mada.ps:8048/alzaytonafm","yourmuzeId":null,"state":"1"},
-{"id":"45","number":"45","name":"Al Haneny FM","description":"","logo":"/Al Haneny FM.png","streamUrl":"http://wwnbvneny.com:8056/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"46","number":"46","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"0"},
+{"id":"45","number":"45","name":"Generacion Kpop","description":"","logo":"/Generacion Kpop.png","streamUrl":"http://192.99.14.225:9962/;","yourmuzeId":null,"state":"1"},
+{"id":"46","number":"46","name":"Power Radio","description":"","logo":"/Power Radio.png","streamUrl":"http://rs.hadara.ps:8044/stream","yourmuzeId":null,"state":"0"},
+{"id":"47","number":"47","name":"Maan Panorama FM","description":"","logo":"/Maan Panorama.jpg","streamUrl":"http://www.panoramafm.ps:8008/;","yourmuzeId":null,"state":"1"}, 
+{"id":"48","number":"48","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
+{"id":"49","number":"49","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
+{"id":"50","number":"50","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
+{"id":"51","number":"51","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
  
 
  
