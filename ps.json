@@ -24,7 +24,7 @@
 {"id":"21","number":"21","name":"Rádio Poléia FM","description":"","logo":"/Rádio Poléia FM.png","streamUrl":"http://hts04.kshost.com.br:9208/;","yourmuzeId":null,"state":"1"},
 {"id":"22","number":"22","name":"TMFM(راديو طريق المحبة)","description":"","logo":"/TMFM.png","streamUrl":"http://streamer.mada.ps:8026/almahaba.ogg","yourmuzeId":null,"state":"1"},
 {"id":"23","number":"23","name":"Al-Huda(طريق الهدى)","description":"","logo":"/Al-Huda.png","streamUrl":"http://46.43.64.50:8024/stream.ogg","yourmuzeId":null,"state":"1"},
-
+ {"id":"24","number":"24","name":"24Fm Palestine","description":"","logo":"/24Fm Palestine.jpg","streamUrl":"http://24fm.callu.ps:8000/live","yourmuzeId":null,"state":"1"},
  
  
  
