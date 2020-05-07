@@ -39,14 +39,14 @@
 {"id":"36","number":"36","name":"Farah Radio(راديو فرح)","description":"","logo":"/Farah Radio.jpg","streamUrl":"http://fara7.callu.ps:8000/live","yourmuzeId":null,"state":"1"},
 {"id":"37","number":"37","name":"marah Radio(راديو مرح)","description":"","logo":"/marah Radio.jpg","streamUrl":"http://rs.hadara.ps:8056/;stream.mp3?_=1","yourmuzeId":null,"state":"1"},
 {"id":"37","number":"37","name":"Nawras Radio(نورس راديو)","description":"","logo":"/Nawras Radio.jpg","streamUrl":"http://rs.hadara.ps:8024/;","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.png","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"Radio Alam(راديو علم)","description":"","logo":"/Radio Alam.png","streamUrl":"http://213.6.105.235:8000/broadwave.mp3","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"Radio Alasra Voice(راديو صوت الأسرى)","description":"","logo":"/Radio Alasra Voice.png","streamUrl":"http://live.atyaf.co:8002/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"Radio Hayat FM nablus(راديو حياة إف إم)","description":"","logo":"/Radio Hayat FM.png","streamUrl":"http://213.239.218.99:7172/live","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","Mazaj FM(راديو مزاج)","description":"","logo":"/Mazaj FM.png","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"Radio Zytona FM(راديو زيتونة)","description":"","logo":"/Radio Zytona.png","streamUrl":"http://streamer.mada.ps:8048/alzaytonafm","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
-{"id":"20","number":"20","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
+{"id":"38","number":"38","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.png","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"},
+{"id":"39","number":"39","name":"Radio Alam(راديو علم)","description":"","logo":"/Radio Alam.png","streamUrl":"http://213.6.105.235:8000/broadwave.mp3","yourmuzeId":null,"state":"1"},
+{"id":"40","number":"40","name":"Radio Alasra Voice(راديو صوت الأسرى)","description":"","logo":"/Radio Alasra Voice.png","streamUrl":"http://live.atyaf.co:8002/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"41","number":"41","name":"Radio Hayat FM nablus(راديو حياة إف إم)","description":"","logo":"/Radio Hayat FM.png","streamUrl":"http://213.239.218.99:7172/live","yourmuzeId":null,"state":"1"},
+{"id":"42","number":"42","Mazaj FM(راديو مزاج)","description":"","logo":"/Mazaj FM.png","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM","yourmuzeId":null,"state":"1"},
+{"id":"43","number":"43","name":"Radio Zytona FM(راديو زيتونة)","description":"","logo":"/Radio Zytona.png","streamUrl":"http://streamer.mada.ps:8048/alzaytonafm","yourmuzeId":null,"state":"1"},
+{"id":"44","number":"44","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
+{"id":"45","number":"45","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
 
  
  
