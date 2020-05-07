@@ -43,7 +43,7 @@
 {"id":"40","number":"40","name":"Radio Alam(راديو علم)","description":"","logo":"/Radio Alam.png","streamUrl":"http://213.6.105.235:8000/broadwave.mp3","yourmuzeId":null,"state":"1"},
 {"id":"41","number":"41","name":"Radio Alasra Voice(راديو صوت الأسرى)","description":"","logo":"/Radio Alasra Voice.png","streamUrl":"http://live.atyaf.co:8002/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"42","number":"42","name":"Radio Hayat FM nablus(راديو حياة إف إم)","description":"","logo":"/Radio Hayat FM.png","streamUrl":"http://213.239.218.99:7172/live","yourmuzeId":null,"state":"1"},
-{"id":"43","number":"43","Mazaj FM(راديو مزاج)","description":"","logo":"/Mazaj FM.png","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM","yourmuzeId":null,"state":"1"},
+{"id":"43","number":"43","name":"Mazaj FM(راديو مزاج)","description":"","logo":"/Mazaj FM.png","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM","yourmuzeId":null,"state":"1"},
 {"id":"44","number":"44","name":"Radio Zytona FM(راديو زيتونة)","description":"","logo":"/Radio Zytona.png","streamUrl":"http://streamer.mada.ps:8048/alzaytonafm","yourmuzeId":null,"state":"1"},
 {"id":"45","number":"45","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
 {"id":"46","number":"46","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
