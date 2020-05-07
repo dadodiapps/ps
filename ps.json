@@ -48,8 +48,8 @@
 {"id":"45","number":"45","name":"Generacion Kpop","description":"","logo":"/Generacion Kpop.png","streamUrl":"http://192.99.14.225:9962/;","yourmuzeId":null,"state":"1"},
 {"id":"46","number":"46","name":"Power Radio","description":"","logo":"/Power Radio.png","streamUrl":"http://rs.hadara.ps:8044/stream","yourmuzeId":null,"state":"0"},
 {"id":"47","number":"47","name":"Maan Panorama FM","description":"","logo":"/Maan Panorama.jpg","streamUrl":"http://www.panoramafm.ps:8008/;","yourmuzeId":null,"state":"1"}, 
-{"id":"48","number":"48","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
-{"id":"49","number":"49","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
+{"id":"48","number":"48","name":"Sirajj Radio(راديو سراج إف إم)","description":"","logo":"/Sirajj Radio.jpg","streamUrl":"http://sirajfm.com:8000/;","yourmuzeId":null,"state":"1"}, 
+{"id":"49","number":"49","name":"MAKAN - Arabic Radio(راديو مكان)","description":"","logo":"/makan radio.jpg","streamUrl":"http://kanliveicy.media.kan.org.il/icy/makan_mp3?providername=tunein","yourmuzeId":null,"state":"1"}, 
 {"id":"50","number":"50","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
 {"id":"51","number":"51","name":"Rabea FM(راديو الرابعة)","description":"","logo":"/Rabea FM.jpg","streamUrl":"http://radio.r4fm.ps:8044/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"}, 
  
