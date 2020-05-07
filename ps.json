@@ -28,7 +28,7 @@
 {"id":"25","number":"25","name":"Hebron Radio90.4FM","description":"","logo":"Hebron Radio90.4FM.png","streamUrl":"http://alhaneny.com:8056/;","yourmuzeId":null,"state":"1"},
 {"id":"26","number":"26","name":"Radio NAS FM(راديو ناس لكل الناس)","description":"","logo":"/radio nas fm.jpg","streamUrl":"http://5.34.160.146:8000/live","yourmuzeId":null,"state":"1"},
 {"id":"27","number":"27","name":"Voice OF Palestin(إذاعة صوت فلسطين)","description":"","logo":"/voice of palestine.jpg","streamUrl":"http://46.43.69.146:8008/;stream.nsv&type=mp3","yourmuzeId":null,"state":"1"}, 
-{"id":"28","number":"28","name":"radio tarab(راديو طرب)","description":"","logo":"/radio tarab.jpg","streamUrl":"http://streamer.mada.ps:8012/tarab","yourmuzeId":null,"state":"1"},
+{"id":"28","number":"28","name":"radio tarab ramallah(راديو طرب)","description":"","logo":"/radio tarab.jpg","streamUrl":"http://streamer.mada.ps:8012/tarab","yourmuzeId":null,"state":"1"},
 {"id":"29","number":"29","name":"radio classic(راديو كلاسيك)","description":"","logo":"/radio classic.jpg","streamUrl":"http://streamer.mada.ps:8037/classic","yourmuzeId":null,"state":"1"},
 {"id":"30","number":"30","name":"radio one ramallah top hits","description":"","logo":"/radio one ramallah top hits.jpg","streamUrl":"http://streamer.mada.ps:8027/onefm","yourmuzeId":null,"state":"1"},
 {"id":"31","number":"31","name":"radio music(راديو الموسيقى)","description":"","logo":"/radio music.jpg","streamUrl":"http://streamer.mada.ps:8039/musiconly","yourmuzeId":null,"state":"1"}, 
