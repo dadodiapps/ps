@@ -25,7 +25,7 @@
 {"id":"22","number":"22","name":"TMFM(راديو طريق المحبة)","description":"","logo":"/TMFM.png","streamUrl":"http://streamer.mada.ps:8026/almahaba.ogg","yourmuzeId":null,"state":"1"},
 {"id":"23","number":"23","name":"Al-Huda(طريق الهدى)","description":"","logo":"/Al-Huda.png","streamUrl":"http://46.43.64.50:8024/stream.ogg","yourmuzeId":null,"state":"1"},
  {"id":"24","number":"24","name":"24Fm Palestine","description":"","logo":"/24Fm Palestine.jpg","streamUrl":"http://24fm.callu.ps:8000/live","yourmuzeId":null,"state":"1"},
-{"id":"25","number":"25","name":"Hebron Radio90.4FM","description":"","logo":"Hebron Radio90.4FM.png","streamUrl":"http://alhaneny.com:8056/;","yourmuzeId":null,"state":"1"},
+{"id":"25","number":"25","name":"Hebron Radio90.4FM(إذاعة الخليل)","description":"","logo":"Hebron Radio90.4FM.png","streamUrl":"http://alhaneny.com:8056/;","yourmuzeId":null,"state":"1"},
 {"id":"26","number":"26","name":"Radio NAS FM(راديو ناس لكل الناس)","description":"","logo":"/radio nas fm.jpg","streamUrl":"http://5.34.160.146:8000/live","yourmuzeId":null,"state":"1"},
 {"id":"27","number":"27","name":"Voice OF Palestin(إذاعة صوت فلسطين)","description":"","logo":"/voice of palestine.jpg","streamUrl":"http://46.43.69.146:8008/;stream.nsv&type=mp3","yourmuzeId":null,"state":"1"}, 
 {"id":"28","number":"28","name":"radio tarab ramallah(راديو طرب)","description":"","logo":"/radio tarab.jpg","streamUrl":"http://streamer.mada.ps:8012/tarab","yourmuzeId":null,"state":"1"},
@@ -45,7 +45,7 @@
 {"id":"42","number":"42","name":"Radio Hayat FM nablus(راديو حياة إف إم)","description":"","logo":"/Radio Hayat FM nablus.png","streamUrl":"http://213.239.218.99:7172/live","yourmuzeId":null,"state":"1"},
 {"id":"43","number":"43","name":"Mazaj FM(راديو مزاج)","description":"","logo":"/Mazaj FM.png","streamUrl":"http://ice5.securenetsystems.net/MAZAJFM","yourmuzeId":null,"state":"1"},
 {"id":"44","number":"44","name":"Radio Zytona FM(راديو زيتونة)","description":"","logo":"/Radio Zytona.jpeg","streamUrl":"http://streamer.mada.ps:8048/alzaytonafm","yourmuzeId":null,"state":"1"},
-{"id":"45","number":"45","name":"Al Haneny FM","description":"","logo":"/Al Haneny FM.png","streamUrl":"http://www.alhaneny.com:8056/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"45","number":"45","name":"Al Haneny FM","description":"","logo":"/Al Haneny FM.png","streamUrl":"http://wwnbvneny.com:8056/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"46","number":"46","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"0"},
  
 
