@@ -31,7 +31,7 @@
 {"id":"28","number":"28","name":"radio tarab(راديو طرب)","description":"","logo":"/radio tarab.jpg","streamUrl":"http://streamer.mada.ps:8012/tarab","yourmuzeId":null,"state":"1"},
 {"id":"29","number":"29","name":"radio classic(راديو كلاسيك)","description":"","logo":"/radio classic.jpg","streamUrl":"http://streamer.mada.ps:8037/classic","yourmuzeId":null,"state":"1"},
 {"id":"30","number":"30","name":"radio one ramallah top hits","description":"","logo":"/radio one ramallah top hits.jpg","streamUrl":"http://streamer.mada.ps:8027/onefm","yourmuzeId":null,"state":"1"},
-{"id":"31","number":"31","name":"radio music(راديو الموسيقى)","description":"","logo":"/radio music.png","streamUrl":"http://streamer.mada.ps:8039/musiconly","yourmuzeId":null,"state":"1"},
+{"id":"31","number":"31","name":"radio music(راديو الموسيقى)","description":"","logo":"/radio music.jpg","streamUrl":"http://streamer.mada.ps:8039/musiconly","yourmuzeId":null,"state":"1"},
 {"id":"32","number":"32","name":"radio ramallah(راديو راما الله)","description":"","logo":"/radio ramallah.jpg","streamUrl":"http://streamer.mada.ps:8031/radioramallah","yourmuzeId":null,"state":"1"},
 {"id":"33","number":"33","name":"راديو راما الله للقرآن الكريم","description":"","logo":"/quranaramallah.jpg","streamUrl":"http://streamer.mada.ps:8029/quranfm","yourmuzeId":null,"state":"1"},
 {"id":"34","number":"34","name":"BurjFM","description":"","logo":"/hgfdmallah.jpg","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
