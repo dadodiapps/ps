@@ -34,7 +34,7 @@
 {"id":"31","number":"31","name":"radio music(راديو الموسيقى)","description":"","logo":"/radio music.png","streamUrl":"http://streamer.mada.ps:8039/musiconly","yourmuzeId":null,"state":"1"},
 {"id":"32","number":"32","name":"radio ramallah(راديو راما الله)","description":"","logo":"/radio ramallah.jpg","streamUrl":"http://streamer.mada.ps:8031/radioramallah","yourmuzeId":null,"state":"1"},
 {"id":"33","number":"33","name":"راديو راما الله للقرآن الكريم","description":"","logo":"/quranaramallah.jpg","streamUrl":"http://streamer.mada.ps:8029/quranfm","yourmuzeId":null,"state":"1"},
-{"id":"34","number":"34","name":"BurjFM","description":"","logo":"/quranaramallah.jpg","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
+{"id":"34","number":"34","name":"BurjFM","description":"","logo":"/hgfdmallah.jpg","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
 {"id":"35","number":"35","name":"BurjFM","description":"","logo":"/BurjFM.jpg","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
 {"id":"36","number":"36","name":"BurjFM","description":"","logo":"/BurjFM.jpg","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
 {"id":"37","number":"37","name":"BurjFM","description":"","logo":"/BurjFM.jpg","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"1"},
