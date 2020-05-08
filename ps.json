@@ -57,8 +57,8 @@
 {"id":"55","number":"55","name":"Ashams Radio(إذاعة الشمس فلسطين)","description":"","logo":"/Ashams Radio.jpg","streamUrl":"https://a1.streamgates.net/Ashams/Live/chunks.m3u8","yourmuzeId":null,"state":"1"},
 {"id":"56","number":"56","name":"Hawa Nablus FM 106.8(هوى نابلس)","description":"","logo":"/Hawa Nablus.jpg","streamUrl":"http://live.blue.ps:8022/;","yourmuzeId":null,"state":"1"},
 {"id":"57","number":"57","name":"إذاعة القرآن الكريم من نابلس","description":"","logo":"/quran radio.jpg","streamUrl":"http://www.quran-radio.org:8080/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"41","number":"41","name":"إذاعة الشعب","description":"","logo":"/إذاعة الشعب.png","streamUrl":"http://217.21.0.45:8026/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"42","number":"42","name":"Yaboos radio(راديو يبوس)","description":"","logo":"/Yaboos radio.png","streamUrl":"http://188.225.182.10:8000/live","yourmuzeId":null,"state":"1"},
+{"id":"58","number":"58","name":"إذاعة الشعب","description":"","logo":"/إذاعة الشعب.png","streamUrl":"http://217.21.0.45:8026/;stream.mp3","yourmuzeId":null,"state":"1"},
+{"id":"59","number":"59","name":"Yaboos radio(راديو يبوس)","description":"","logo":"/Yaboos radio.png","streamUrl":"http://188.225.182.10:8000/live","yourmuzeId":null,"state":"1"},
 
 
  
