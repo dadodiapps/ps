@@ -7,7 +7,6 @@
 {"id":"4","number":"4","name":"Radio Gaza FM(راديو غزة)","description":"","logo":"/gaza.jpg","streamUrl":"http://173.212.226.153:8000/;","yourmuzeId":null,"state":"1"},
 {"id":"5","number":"5","name":"Radio Bethlehem 2000(إذاعة بيت لحم)","description":"","logo":"/baytlahm.jpg","streamUrl":"http://rs.hadara.ps:8046/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"6","number":"6","name":"Radio Alaqsa Voice(إذاعة صوت الأقصى)","description":"","logo":"/aqsa.jpg","streamUrl":"http://stream.alaqsavoice.ps:8004/;stream.mp3","yourmuzeId":null,"state":"1"},
-{"id":"7","number":"7","name":"7ria FM","description":"","logo":"/horiya.jpg","streamUrl":"http://hjjkh.ps:8000/;","yourmuzeId":null,"state":"2"},
 {"id":"8","number":"8","name":"Hayat FM(راديو حياة)","description":"","logo":"/hayat.jpg","streamUrl":"http://stream.purecore.net:8000/;","yourmuzeId":null,"state":"1"},
 {"id":"9","number":"9","name":"Angham Radio(إذاعة أنغام)","description":"","logo":"/angham.jpg","streamUrl":"http://46.43.64.50:8010/ANGHAM","yourmuzeId":null,"state":"1"},
 {"id":"10","number":"10","name":"Radio Orient Bethlehem","description":"","logo":"/orient.jpg","streamUrl":"http://streamer.mada.ps:8034/orient","yourmuzeId":null,"state":"1"},
@@ -54,8 +53,10 @@
 {"id":"51","number":"51","name":"Sawt Alnaqap(إذاعة صوت النقب)","description":"","logo":"/Sawt Alnaqap.png","streamUrl":"http://188.165.0.118:8000/;","yourmuzeId":null,"state":"1"}, 
 {"id":"52","number":"52","name":"Radio Seba FM(إذاعة صبا إف إم)","description":"","logo":"/Radio Seba.jpg","streamUrl":"http://46.43.77.173:8000/sebafm","yourmuzeId":null,"state":"1"},
 {"id":"53","number":"53","name":"Radio Albalad(راديو البلد - جنين )","description":"","logo":"/Radio Albalad.jpg","streamUrl":"http://live.masterweb-ps.com:8006/;","yourmuzeId":null,"state":"1"},
-{"id":"54","number":"54","name":"Radio 7ala(راديو حلا- القدس)","description":"","logo":"/Radio 7ala.jpg","streamUrl":"http://rs.hadara.ps:8010/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"0"},
-{"id":"55","number":"55","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"0"},
+{"id":"54","number":"54","name":"Radio 7ala(راديو حلا- القدس)","description":"","logo":"/Radio 7ala.jpg","streamUrl":"http://rs.hadara.ps:8010/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"},
+{"id":"55","number":"55","name":"Ashams Radio(إذاعة الشمس فلسطين)","description":"","logo":"/Ashams Radio.png","streamUrl":"https://a1.streamgates.net/Ashams/Live/chunks.m3u8","yourmuzeId":null,"state":"1"},
+{"id":"56","number":"56","name":"Hawa Nablus FM 106.8(هوى نابلس)","description":"","logo":"/Hawa Nablus.jpg","streamUrl":"http://live.blue.ps:8022/;","yourmuzeId":null,"state":"1"},
+{"id":"57","number":"57","name":"إذاعة القرآن الكريم من نابلس","description":"","logo":"/horiya.jpg","streamUrl":"http://www.quran-radio.org:8080/;stream.mp3","yourmuzeId":null,"state":"1"},
 
 
  
