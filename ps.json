@@ -54,7 +54,7 @@
 {"id":"52","number":"52","name":"Radio Seba FM(إذاعة صبا إف إم)","description":"","logo":"/Radio Seba.jpg","streamUrl":"http://46.43.77.173:8000/sebafm","yourmuzeId":null,"state":"1"},
 {"id":"53","number":"53","name":"Radio Albalad(راديو البلد - جنين )","description":"","logo":"/Radio Albalad.jpg","streamUrl":"http://live.masterweb-ps.com:8006/;","yourmuzeId":null,"state":"1"},
 {"id":"54","number":"54","name":"Radio 7ala(راديو حلا- القدس)","description":"","logo":"/Radio 7ala.jpg","streamUrl":"http://rs.hadara.ps:8010/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"1"},
-{"id":"55","number":"55","name":"Ashams Radio(إذاعة الشمس فلسطين)","description":"","logo":"/Ashams Radio.png","streamUrl":"https://a1.streamgates.net/Ashams/Live/chunks.m3u8","yourmuzeId":null,"state":"1"},
+{"id":"55","number":"55","name":"Ashams Radio(إذاعة الشمس فلسطين)","description":"","logo":"/Ashams Radio.jpg","streamUrl":"https://a1.streamgates.net/Ashams/Live/chunks.m3u8","yourmuzeId":null,"state":"1"},
 {"id":"56","number":"56","name":"Hawa Nablus FM 106.8(هوى نابلس)","description":"","logo":"/Hawa Nablus.jpg","streamUrl":"http://live.blue.ps:8022/;","yourmuzeId":null,"state":"1"},
 {"id":"57","number":"57","name":"إذاعة القرآن الكريم من نابلس","description":"","logo":"/quran radio.jpg","streamUrl":"http://www.quran-radio.org:8080/;stream.mp3","yourmuzeId":null,"state":"1"},
 
