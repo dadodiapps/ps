@@ -54,7 +54,7 @@
 {"id":"51","number":"51","name":"Sawt Alnaqap(إذاعة صوت النقب)","description":"","logo":"/Sawt Alnaqap.png","streamUrl":"http://188.165.0.118:8000/;","yourmuzeId":null,"state":"1"}, 
 {"id":"52","number":"52","name":"Radio Seba FM(إذاعة صبا إف إم)","description":"","logo":"/Radio Seba.jpg","streamUrl":"http://46.43.77.173:8000/sebafm","yourmuzeId":null,"state":"1"},
 {"id":"53","number":"53","name":"Radio Albalad(راديو البلد - جنين )","description":"","logo":"/Radio Albalad.jpg","streamUrl":"http://live.masterweb-ps.com:8006/;","yourmuzeId":null,"state":"1"},
-{"id":"54","number":"54","name":"Radio 7ala(راديو حلا- القدس)","description":"","logo":"/Radio 7ala.png","streamUrl":"http://rs.hadara.ps:8010/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"0"},
+{"id":"54","number":"54","name":"Radio 7ala(راديو حلا- القدس)","description":"","logo":"/Radio 7ala.jpg","streamUrl":"http://rs.hadara.ps:8010/;stream.mp3&13202692901&duration=99999&id=scplayer&autostart=true","yourmuzeId":null,"state":"0"},
 {"id":"55","number":"55","name":"BurjFM","description":"","logo":"/BurjFM.png","streamUrl":"http://82.213.26.67:8000/stream","yourmuzeId":null,"state":"0"},
 
 
