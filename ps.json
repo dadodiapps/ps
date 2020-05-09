@@ -60,10 +60,18 @@
 {"id":"58","number":"58","name":"إذاعة الشعب","description":"","logo":"/إذاعة الشعب.png","streamUrl":"http://217.21.0.45:8026/;stream.mp3","yourmuzeId":null,"state":"1"},
 {"id":"59","number":"59","name":"Yaboos radio(راديو يبوس)","description":"","logo":"/Yaboos radio.png","streamUrl":"http://188.225.182.10:8000/live","yourmuzeId":null,"state":"1"},
 {"id":"60","number":"60","name":"إذاعة الصحابة","description":"","logo":"/إذاعة الصحابة.jpg","streamUrl":"http://s2.voscast.com:11326/stream","yourmuzeId":null,"state":"1"},
-
-
- 
- 
+{"id":"61","number":"61","name":"A7la FM","description":"","logo":"/A7la FM.jpg","streamUrl":"http://2kjhglu.ps:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"62","number":"62","name":"Sawt Alsharq","description":"","logo":"/Sawt Alsharq.jpg","streamUrl":"http://rrrlu.ps:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"63","number":"63","name":"راديو المستقبل 106.1","description":"","logo":"/راديو المستقبل 106.1.jpg","streamUrl":"http://swszu.ps:8000/live","yourmuzeId":null,"state":"0"},
+{"id":"64","number":"64","name":"إذاعة منبر القدس","description":"","logo":"/إذاعة منبر القدس.jpg","streamUrl":"http://vc.ps:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"65","number":"65","name":"Radio Alwan FM","description":"","logo":"/Radio Alwan FM.jpg","streamUrl":"http://lmlkps:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"66","number":"66","name":"اذاعة صوت الجنوب 89.00","description":"","logo":"/اذاعة صوت الجنوب 89.00.jpg","streamUrl":"http://hgfs:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"67","number":"67","name":"7ala Radio 107.4 FM","description":"","logo":"/7ala Radio 107.4 FM.jpg","streamUrl":"http://fcccu.ps:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"68","number":"68","name":"Radio Yenbo3","description":"","logo":"/Radio Yenbo3.jpg","streamUrl":"http://Radio Yenbo3s:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"69","number":"69","name":"Athan FM","description":"","logo":"/Athan FM.jpg","streamUrl":"http://Athan FM:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"70","number":"70","name":"Eco FM","description":"","logo":"/Eco FM.jpg","streamUrl":"http://Eco FMllu.ps:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"71","number":"71","name":"ازاعة الريف","description":"","logo":"/ازاعة الريف.jpg","streamUrl":"http://ازاعة الريف.ps:8000/live","yourmuzeId":null,"state":"0"}, 
+{"id":"72","number":"72","name":"راديو موطني","description":"","logo":"/راديو موطني.jpg","streamUrl":"http://راديو موطني:8000/live","yourmuzeId":null,"state":"0"}, 
  
  
  
